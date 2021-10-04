@@ -1,8 +1,8 @@
 - defaults:
-  link:
-    relink: true
+    link:
+      relink: true
 
 - clean: ['~']
 
 - link:
-  ~/AppData/Local/nvim: files/nvim
+    ~/AppData/Local/nvim: files/nvim
