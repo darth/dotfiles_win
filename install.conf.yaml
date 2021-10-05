@@ -5,4 +5,4 @@
 - clean: ['~']
 
 - link:
-    ~/AppData/Local/nvim: files/nvim
+    $LOCALAPPDATA/nvim: files/nvim
